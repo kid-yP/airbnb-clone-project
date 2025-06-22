@@ -80,3 +80,13 @@ It reduces frustration and drop-offs during checkout
 Builds trust through clean visuals and clear navigation
 Encourages more conversions and repeat users
 
+👥 Project Roles and Responsibilities
+Role	Responsibilities
+Project Manager	Oversees project scope and timeline, coordinates communication among team members, tracks progress, and ensures deliverables are met on time.
+Frontend Developers	Build user interface using React or similar framework, implement responsive design, connect UI to backend APIs, and ensure accessibility.
+Backend Developers	Design and implement backend architecture, develop RESTful APIs, handle business logic and security, and manage the database.
+Designers	Create Figma mockups, define UI/UX design system, ensure visual consistency, and collaborate with developers to implement designs.
+QA/Testers	Write and run unit/integration tests, conduct manual testing of features, report and track bugs, and ensure quality of deployment.
+DevOps Engineers	Set up and maintain deployment pipelines, manage server infrastructure and hosting, ensure continuous integration and delivery (CI/CD).
+Product Owner	Gather requirements, define and prioritize features, provide user perspective and feedback, and represent stakeholders.
+Scrum Master	Facilitate agile ceremonies (stand-ups, sprints), remove team blockers, promote collaboration, and ensure the team follows agile practices.
