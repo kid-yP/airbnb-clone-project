@@ -90,3 +90,27 @@ QA/Testers	Write and run unit/integration tests, conduct manual testing of featu
 DevOps Engineers	Set up and maintain deployment pipelines, manage server infrastructure and hosting, ensure continuous integration and delivery (CI/CD).
 Product Owner	Gather requirements, define and prioritize features, provide user perspective and feedback, and represent stakeholders.
 Scrum Master	Facilitate agile ceremonies (stand-ups, sprints), remove team blockers, promote collaboration, and ensure the team follows agile practices.
+
+🧩 UI Component Patterns
+To build a consistent, scalable interface, we’ll plan for reusable components. These core building blocks ensure a unified look and simplify future updates.
+
+Navbar
+Includes logo, search bar, user account navigation
+
+Responsive layout with mobile-friendly hamburger menu
+
+Property Card
+Displays property image, price, location, and rating
+
+Option to “favorite” a listing
+
+Fits cleanly in a responsive grid layout
+
+Footer
+Contains key links (About, Help, etc.)
+
+Social media icons
+
+Company info and copyright
+
+>All components are designed to be modular, accessible, and easy to extend or customize. The goal is to promote maintainability and consistency across all pages.
